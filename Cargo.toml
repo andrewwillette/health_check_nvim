@@ -10,4 +10,5 @@ crate-type = ["cdylib"]
 
 [dependencies]
 nvim-oxi = {version="0.2.2", features=["neovim-0-8"]}
+serde = "1.0.152"
 # nvim-oxi = {version="0.2.2", features=["neovim-0.8"]}
